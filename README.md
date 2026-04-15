@@ -16,7 +16,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/@vlada0078" target="_blank">
+    <a href="https://t.me/vlada0078" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -81,7 +81,8 @@
 ### 🧪Тестовые артефакты:
 
 ### 📌 Теория тестирования
-- Определение методов, типов и уровней тестирования  
+- Определение методов, типов и уровней тестирования
+  Классификация подходов к тестированию интернет-магазина (методы, уровни, типы).
 👉 https://github.com/Vlada658/Testing-Methods-Types-Levels-
 
 - Анализ требований и макета  
@@ -108,13 +109,11 @@
 
 
 ### 📌 Веб-тестирование
-- Работа в DevTools  
-👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
 
 - Основы HTML и CSS (простая веб-страница)  
 👉 https://github.com/Vlada658/HTML-CSS-Basics-for-QA
 
-- Поиск багов в корзине  
+- Поиск багов в корзине(DevTools) 
 👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
 
 
