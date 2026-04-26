@@ -3,14 +3,14 @@
 ---
 
 ### 👨‍💻 Обо мне:
-Junior QA Engineer с практическим опытом тестирования веб-приложений и API.
+Junior QA Engineer.
 
-В рамках проекта выполняла полный цикл тестирования интернет-магазина:
-от анализа требований до оформления дефектов.
+Имею практический опыт тестирования веб-приложений и API, анализа требований и работы с тестовой документацией.
 
-Имею опыт работы с тестовой документацией, API и базами данных.
-- 📫 Как связаться со мной:  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladislava6567@gmail.com)  
+Использую DevTools, Postman и SQL.
+
+Бэкграунд в лаборатории контроля качества — развиты внимательность к деталям и работа по регламентам.
+
 
 ---
 # 🧪 QA Project: Online Store Testing (UI + API)
@@ -42,10 +42,10 @@ Junior QA Engineer с практическим опытом тестирован
 
 Проведён анализ пользовательских историй и выявлены дефекты требований до начала тестирования.
 
-🔗 Requirements Analysis  
+ Requirements Analysis  
 👉 https://github.com/Vlada658/Requirements-Analysis
 
-🔗 Test Strategy (методы, типы, уровни тестирования)  
+ Test Strategy (методы, типы, уровни тестирования)  
 👉 https://github.com/Vlada658/Testing-Methods-Types-Levels-
 
 ---
@@ -54,10 +54,10 @@ Junior QA Engineer с практическим опытом тестирован
 
 Применены техники тест-дизайна для подготовки тестовых данных.
 
-🔗 Эквивалентное разбиение и граничные значения  
+ Эквивалентное разбиение и граничные значения  
 👉 https://github.com/Vlada658/test-design-registration-form
 
-🔗 Попарное тестирование (Pairwise)  
+ Попарное тестирование (Pairwise)  
 👉 https://github.com/Vlada658/pairwise-filtering-sorting
 
 ---
@@ -66,13 +66,13 @@ Junior QA Engineer с практическим опытом тестирован
 
 Разработана документация для системного тестирования.
 
-🔗 Checklist (Registration & Login)  
+ Checklist (Registration & Login)  
 👉 https://github.com/Vlada658/checklist-registration-login
 
-🔗 Test Cases  
+ Test Cases  
 👉 https://github.com/Vlada658/test-cases-registration-login
 
-🔗 Bug Reports  
+ Bug Reports  
 👉 https://github.com/Vlada658/bug-reports-registration-login
 
 ---
@@ -81,7 +81,7 @@ Junior QA Engineer с практическим опытом тестирован
 
 Проведено исследовательское тестирование корзины.
 
-🔗 Exploratory Testing (DevTools)  
+  Exploratory Testing (DevTools)  
 👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
 
 ---
@@ -90,10 +90,10 @@ Junior QA Engineer с практическим опытом тестирован
 
 Проведено тестирование REST и SOAP сервисов.
 
-🔗 Postman Collection (REST API)  
+ Postman Collection (REST API)  
 👉 https://github.com/Vlada658/Postman-Collection
 
-🔗 SOAP API Testing  
+ SOAP API Testing  
 👉 https://github.com/Vlada658/SOAP-API-Testing
 
 ---
@@ -102,10 +102,10 @@ Junior QA Engineer с практическим опытом тестирован
 
 Проверка данных с использованием SQL.
 
-🔗 SQL SELECT  
+ SQL SELECT  
 👉 https://github.com/Vlada658/SQL-Testing-SELECT-Queries
 
-🔗 SQL JOIN  
+ SQL JOIN  
 👉 https://github.com/Vlada658/SQL-Testing-JOIN-Queries
 
 ---
@@ -124,7 +124,7 @@ Junior QA Engineer с практическим опытом тестирован
 
 ## 📊 Результаты
 
-- Составлен чек-лист, тест-кейс    
+- Составлены чек-лист, тест-кейс    
 - Найдены и задокументированы дефекты  
 - Проведено UI, API и SQL тестирование  
 - Применены техники тест-дизайна  
