@@ -11,122 +11,85 @@ Junior QA Engineer.
 
 Бэкграунд в лаборатории контроля качества — развиты внимательность к деталям и работа по регламентам.
 
+#  QA Project: Online Store Testing (UI + API)
 
----
-# 🧪 QA Project: Online Store Testing (UI + API)
-
-## 📌 Описание проекта
-В рамках учебного проекта было проведено комплексное тестирование веб-приложения "Интернет-магазин".
-
-Проект охватывает полный цикл тестирования:
-- анализ требований
-- тест-дизайн
-- разработка тестовой документации
-- выполнение тестирования
-- оформление дефектов
-- API и SQL тестирование
+## 📌 Описание
+Проведено комплексное тестирование веб-приложения «Интернет-магазин» с охватом пользовательского интерфейса, API и базы данных.
 
 ---
 
 ## 🔍 Область тестирования
-- Регистрация пользователей
-- Авторизация (Login/Logout)
-- Проверка доступа (Authorization)
-- Работа с корзиной
-- API (Products, Cart)
-- База данных
+- Регистрация пользователей  
+- Авторизация и аутентификация  
+- Проверка прав доступа  
+- Работа с корзиной  
+- API (товары, корзина)  
+- База данных  
 
 ---
 
-##  1. Анализ требований
+##  Что было сделано
 
-Проведён анализ пользовательских историй и выявлены дефекты требований до начала тестирования.
+###  Анализ требований
+- Проанализированы пользовательские сценарии  
+- Выявлены дефекты и неточности требований  
 
- Requirements Analysis  
-👉 https://github.com/Vlada658/Requirements-Analysis
-
- Test Strategy (методы, типы, уровни тестирования)  
-👉 https://github.com/Vlada658/Testing-Methods-Types-Levels-
+👉 https://github.com/Vlada658/Requirements-Analysis  
 
 ---
 
-##  2. Тест-дизайн
+###  Тест-дизайн
+Применены техники тест-дизайна:
+- эквивалентное разбиение  
+- граничные значения  
+- попарное тестирование  
 
-Применены техники тест-дизайна для подготовки тестовых данных.
-
- Эквивалентное разбиение и граничные значения  
-👉 https://github.com/Vlada658/test-design-registration-form
-
- Попарное тестирование (Pairwise)  
-👉 https://github.com/Vlada658/pairwise-filtering-sorting
+👉 https://github.com/Vlada658/test-design-registration-form  
 
 ---
 
-## 3. Тестовая документация
+### Тестовая документация
+Разработаны:
+- чек-листы  
+- тест-кейсы  
+- баг-репорты  
 
-Разработана документация для системного тестирования.
-
- Checklist (Registration & Login)  
-👉 https://github.com/Vlada658/checklist-registration-login
-
- Test Cases  
-👉 https://github.com/Vlada658/test-cases-registration-login
-
- Bug Reports  
-👉 https://github.com/Vlada658/bug-reports-registration-login
+👉 https://github.com/Vlada658/test-cases-registration-login  
 
 ---
 
-##  4. UI тестирование
+###  UI тестирование
+- Проведено исследовательское тестирование  
+- Использованы инструменты разработчика (DevTools) для анализа поведения приложения  
 
-Проведено исследовательское тестирование корзины.
-
-  Exploratory Testing (DevTools)  
-👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store
-
----
-
-##  5. API тестирование
-
-Проведено тестирование REST и SOAP сервисов.
-
- Postman Collection (REST API)  
-👉 https://github.com/Vlada658/Postman-Collection
-
- SOAP API Testing  
-👉 https://github.com/Vlada658/SOAP-API-Testing
+👉 https://github.com/Vlada658/Exploratory-Testing-Online-Store  
 
 ---
 
-##  6. Работа с базой данных
+###  API тестирование
+- Проведено тестирование API (REST и SOAP)  
+- Использованы инструменты Postman и Swagger  
+- Выполнена проверка структуры и корректности ответов сервера  
 
-Проверка данных с использованием SQL.
+👉 https://github.com/Vlada658/Postman-Collection  
 
- SQL SELECT  
-👉 https://github.com/Vlada658/SQL-Testing-SELECT-Queries
+---
 
- SQL JOIN  
-👉 https://github.com/Vlada658/SQL-Testing-JOIN-Queries
+###  Работа с базой данных
+- Проведена проверка данных с использованием SQL  
+- Использованы запросы SELECT и JOIN  
+
+👉 https://github.com/Vlada658/SQL-Testing-JOIN-Queries  
 
 ---
 
 ## 🛠 Используемые инструменты
-
-- Postman
-- Swagger
-- Chrome DevTools
-- Jira / YouTrack
-- MySQL
-- Git
-- Charles Proxy
+Postman • Swagger • DevTools • Jira / YouTrack • MySQL • Git • Charles Proxy  
 
 ---
 
-## 📊 Результаты
-
-- Составлены чек-лист, тест-кейс    
-- Найдены и задокументированы дефекты  
-- Проведено UI, API и SQL тестирование  
+## 📊 Результат
+- Проведено комплексное тестирование (UI, API, база данных)  
+- Подготовлена тестовая документация  
+- Выявлены и задокументированы дефекты  
 - Применены техники тест-дизайна  
-
----
