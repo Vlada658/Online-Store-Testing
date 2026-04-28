@@ -111,7 +111,7 @@ Junior QA Engineer с практическим опытом тестирован
 - Postman  
 - Swagger  
 - Chrome DevTools  
-- Jira / YouTrack  
+- Jira 
 - MySQL  
 - Git  
 - Charles Proxy  
