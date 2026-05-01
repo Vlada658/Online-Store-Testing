@@ -63,6 +63,7 @@ Junior QA Engineer с практическим опытом тестирован
 Разработана тестовая документация для системного тестирования.
 
  Чек-лист 
+
 👉 https://github.com/Vlada658/checklist-registration-login
 
  Тест-кейсы  
